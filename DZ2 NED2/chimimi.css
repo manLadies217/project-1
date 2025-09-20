@@ -1,12 +1,40 @@
-p{
-      color: blue;
-      text-align: center;
+p
+{
+    color:red;
+    font-size:30px;
+}
+h1{
+    color: rgb(163, 54, 54) ;
+    font-size: 33px;
+    font-weight:bold;
+}
+h2{
+    color:rgb(255, 0, 200);
+    text-align:center;
+    border:1px solid rgb(255, 0, 68);
+}
+ul{
+    color: purple;
+    text-align:center;
+}
+.jotaro{
+    color:rgb(2, 2, 71);
+    font-size:200px;
+    text-align:center;
+}
+
+.dio{
+    color:rgba(159, 48, 109, 0.71);
+    font-size:20px;
+    text-align:center;
+}
+.dioo{
+    color:rgb(101, 100, 100);
+    font-size:23px;
+    text-align:center;
 }
 p{
-      color: rgb(235, 15, 238);
-      text-align: center;
-}
-p{
-      color: rgb(0, 0, 0);
-      text-align: center;
+    color:rgb(155, 205, 18);
+    font-size:20px;
+    text-align:center;
 }
