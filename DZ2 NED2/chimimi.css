@@ -45,6 +45,15 @@ p{
 #jotaro{
 
     color: rgb(215, 89, 89);
-
-
+}
+.qe{
+    color: rgb(170, 26, 122);
+}
+#qe{
+    color: rgb(243, 25, 25);
+}
+div{
+    font-size:30px;
+    text-align:center;
+    color:rgb(20, 12, 255);
 }
