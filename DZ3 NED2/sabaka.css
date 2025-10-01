@@ -1,0 +1,67 @@
+h1 {
+    font-size: 39px;
+    color: rgb(0, 0, 255);
+}
+p {
+    font-size: 20px;
+    color: rgb(242, 7, 7);
+    font-weight: bold;
+    text-align: center;
+}
+#ddaa {
+    font-size: 30px;
+    color: green;
+    text-align: right;
+    background-color: rgb(34, 255, 0);
+}
+#poio {
+    font-size: 25px;
+    color: rgb(255, 0, 247);
+    text-align: left;
+    background-image: url(https://cs11.pikabu.ru/post_img/2019/11/14/9/og_og_1573742612295076307.jpg);
+    background-size: cover;
+}
+#poizen {
+    color:black;
+    background-color: rgb(255, 0, 195);
+    padding: 20px;
+    margin: 33px;
+    border: 34px solid yellow;
+}
+.babau {
+    color: rgb(8, 0, 255);
+    padding: 40px;
+   
+}
+#ddas {
+    color: rgb(255, 0, 0);
+    margin: 20px;
+}
+#wrtw {
+    color: rgb(179, 0, 255);
+    border: 22px solid rgb(255, 0, 0);
+}
+#polo {
+    color: rgb(0, 255, 13);
+    width: 120px;
+    height: 250px;
+}
+#qedq {
+    color: rgb(255, 0, 0);
+   width: 12px;
+    height: 140px;
+}
+#dlqmn {
+    color: rgb(255, 221, 0);
+    width: 200px;
+    height: 300px;
+    overflow: hidden;
+}
+
+
+
+
+
+
+
+
