@@ -1,0 +1,36 @@
+#button1:hover {
+    background-color:rgb(236, 13, 13) ;
+    width:120px;
+    height:120px;
+}
+#button0:focus{
+   border-color: #007bff;
+
+}
+.list-item:first-child {
+    color:red;
+}
+.list-item:last-child {
+    color:blue;
+}
+.forea:first-child {
+    color:green;
+}
+.forea:last-child {
+    color:rgb(57, 51, 51);
+}
+#space:hover {
+    background-color: blue;
+    width:75px;
+    height:75px;
+}
+#marine:focus {
+    border-color: #28a745;
+}
+
+
+
+
+
+
+
